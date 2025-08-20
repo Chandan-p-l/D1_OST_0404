@@ -27,7 +27,7 @@
      everyone (OUTPUT)
 
 ````
-#NEVIGATION:
+# NEVIGATION:
 ```` bash
 /D1> cd ../../..
 /Desktop> cd NIMS/CSE/D1
@@ -37,7 +37,7 @@
 /D1> ls
      Data.sh  Data.txt
 ````
-#PERMISIONS:
+# PERMISIONS:
 
 ``` bash
 /~> cd Desktop
